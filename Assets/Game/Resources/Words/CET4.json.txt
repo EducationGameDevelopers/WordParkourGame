@@ -1,0 +1,702 @@
+[
+  {
+    "Id": "0001",
+    "English": "abandon",
+    "Chinese": "抛弃",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0002",
+    "English": "aboard",
+    "Chinese": "上船",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0003",
+    "English": "absolute",
+    "Chinese": "绝对的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0004",
+    "English": "absorb",
+    "Chinese": "吸收",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0005",
+    "English": "abstract",
+    "Chinese": "摘要",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0006",
+    "English": "abundant",
+    "Chinese": "丰富的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0007",
+    "English": "abuse",
+    "Chinese": "滥用",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0008",
+    "English": "academic",
+    "Chinese": "学院的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0009",
+    "English": "accelerate",
+    "Chinese": "使加快",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0010",
+    "English": "access",
+    "Chinese": "入口",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0011",
+    "English": "accidental",
+    "Chinese": "偶然的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0012",
+    "English": "accommodate",
+    "Chinese": "容纳",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0013",
+    "English": "accompany",
+    "Chinese": "陪伴",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0014",
+    "English": "accomplish",
+    "Chinese": "完成",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0015",
+    "English": "accordance",
+    "Chinese": "一致",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0016",
+    "English": "account",
+    "Chinese": "记述",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0017",
+    "English": "accumulate",
+    "Chinese": "积累",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0018",
+    "English": "accuracy",
+    "Chinese": "准确度",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0019",
+    "English": "accustomed",
+    "Chinese": "惯常的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0020",
+    "English": "acid",
+    "Chinese": "酸的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0021",
+    "English": "acquaintance",
+    "Chinese": "认识",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0022",
+    "English": "acquire",
+    "Chinese": "取得",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0023",
+    "English": "acre",
+    "Chinese": "英亩",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0024",
+    "English": "adapt",
+    "Chinese": "使适应",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0025",
+    "English": "addition",
+    "Chinese": "加",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0026",
+    "English": "address",
+    "Chinese": "地址",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0027",
+    "English": "adequate",
+    "Chinese": "足够的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0028",
+    "English": "adjust",
+    "Chinese": "调整",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0029",
+    "English": "administration",
+    "Chinese": "管理",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "00300",
+    "English": "admission",
+    "Chinese": "允许进入",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0031",
+    "English": "admit",
+    "Chinese": "承认",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0032",
+    "English": "advance",
+    "Chinese": "前进",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0033",
+    "English": "adventure",
+    "Chinese": "冒险",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0034",
+    "English": "advisable",
+    "Chinese": "明智的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0035",
+    "English": "affair",
+    "Chinese": "事情",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0036",
+    "English": "affect",
+    "Chinese": "影响",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0037",
+    "English": "afford",
+    "Chinese": "担负得起",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0038",
+    "English": "afterward",
+    "Chinese": "后来",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0039",
+    "English": "age",
+    "Chinese": "变老",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0040",
+    "English": "aggressive",
+    "Chinese": "侵略的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0041",
+    "English": "aircraft",
+    "Chinese": "飞机",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0042",
+    "English": "alarm",
+    "Chinese": "惊恐",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0043",
+    "English": "alcohol",
+    "Chinese": "酒精",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0044",
+    "English": "alike",
+    "Chinese": "同样的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0045",
+    "English": "alloy",
+    "Chinese": "合金",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0046",
+    "English": "alphabet",
+    "Chinese": "字母表",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0047",
+    "English": "alter",
+    "Chinese": "改变",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0048",
+    "English": "altitude",
+    "Chinese": "高度",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0049",
+    "English": "aluminium",
+    "Chinese": "铝",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0050",
+    "English": "amaze",
+    "Chinese": "使惊愕",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0051",
+    "English": "ambulance",
+    "Chinese": "救护车",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0052",
+    "English": "amongst",
+    "Chinese": "在…之中",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0053",
+    "English": "amuse",
+    "Chinese": "逗…乐",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0054",
+    "English": "analyse",
+    "Chinese": "分析",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0055",
+    "English": "ancestor",
+    "Chinese": "祖宗",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0056",
+    "English": "anchor",
+    "Chinese": "抛锚",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0057",
+    "English": "ancient",
+    "Chinese": "古代的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0058",
+    "English": "ankle",
+    "Chinese": "踝",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0059",
+    "English": "announce",
+    "Chinese": "宣布",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0060",
+    "English": "annoy",
+    "Chinese": "使恼怒",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0061",
+    "English": "annual",
+    "Chinese": "每年的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0062",
+    "English": "anticipate",
+    "Chinese": "预料",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0063",
+    "English": "anxiety",
+    "Chinese": "焦虑",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0064",
+    "English": "anxious",
+    "Chinese": "忧虑的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0065",
+    "English": "apart",
+    "Chinese": "相隔",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0066",
+    "English": "apologize",
+    "Chinese": "道歉",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0067",
+    "English": "apparatus",
+    "Chinese": "器械",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0068",
+    "English": "appeal",
+    "Chinese": "呼吁",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0069",
+    "English": "appetite",
+    "Chinese": "食欲",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0070",
+    "English": "appliance",
+    "Chinese": "用具",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0071",
+    "English": "applicable",
+    "Chinese": "能应用的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0072",
+    "English": "application",
+    "Chinese": "请求",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0073",
+    "English": "appɔint",
+    "Chinese": "任命",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0074",
+    "English": "appreciate",
+    "Chinese": "欣赏",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0075",
+    "English": "approval",
+    "Chinese": "赞成",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0076",
+    "English": "approximate",
+    "Chinese": "近似的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0077",
+    "English": "arbitrary",
+    "Chinese": "随心所欲的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0078",
+    "English": "architecture",
+    "Chinese": "建筑学",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0079",
+    "English": "argue",
+    "Chinese": "争论",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0080",
+    "English": "arise",
+    "Chinese": "出现",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0081",
+    "English": "arithmetic",
+    "Chinese": "算术",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0082",
+    "English": "arouse",
+    "Chinese": "引起",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0083",
+    "English": "article",
+    "Chinese": "条款",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0084",
+    "English": "artificial",
+    "Chinese": "人工的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0085",
+    "English": "artistic",
+    "Chinese": "艺术的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0086",
+    "English": "ash",
+    "Chinese": "灰",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0087",
+    "English": "ashamed",
+    "Chinese": "惭愧的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0088",
+    "English": "aspect",
+    "Chinese": "方面",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0089",
+    "English": "assemble",
+    "Chinese": "集合",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0090",
+    "English": "attend",
+    "Chinese": "出席",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0091",
+    "English": "attribute",
+    "Chinese": "把…归因于",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0092",
+    "English": "audience",
+    "Chinese": "观众",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0093",
+    "English": "authority",
+    "Chinese": "权力",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0094",
+    "English": "automatic",
+    "Chinese": "自动的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0095",
+    "English": "auxiliary",
+    "Chinese": "辅助的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0096",
+    "English": "available",
+    "Chinese": "可利用的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0097",
+    "English": "avenue",
+    "Chinese": "林荫道",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0098",
+    "English": "await",
+    "Chinese": "等候",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0099",
+    "English": "awake",
+    "Chinese": "醒着的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0100",
+    "English": "award",
+    "Chinese": "奖品",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  }
+]

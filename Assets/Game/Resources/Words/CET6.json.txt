@@ -1,0 +1,702 @@
+[
+  {
+    "Id": "0001",
+    "English": "acquisition",
+    "Chinese": "获得",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0002",
+    "English": "adolescent",
+    "Chinese": "青春期的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0003",
+    "English": "adverse",
+    "Chinese": "不利的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0004",
+    "English": "aesthetic",
+    "Chinese": "美学的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0005",
+    "English": "affiliate",
+    "Chinese": "附属",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0006",
+    "English": "afflict",
+    "Chinese": "使痛苦",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0007",
+    "English": "aggravate",
+    "Chinese": "使恶化",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0008",
+    "English": "agitation",
+    "Chinese": "鼓动",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0009",
+    "English": "alleviate",
+    "Chinese": "减轻",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0010",
+    "English": "amends",
+    "Chinese": "赔偿",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0011",
+    "English": "anonymous",
+    "Chinese": "匿名的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0012",
+    "English": "appraisal",
+    "Chinese": "评价",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0013",
+    "English": "articulate",
+    "Chinese": "发音清晰的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0014",
+    "English": "ascertain",
+    "Chinese": "查明",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0015",
+    "English": "ascribe",
+    "Chinese": "把⋯归于",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0016",
+    "English": "assault",
+    "Chinese": "袭击",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0017",
+    "English": "assert",
+    "Chinese": "断言",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0018",
+    "English": "asset",
+    "Chinese": "资产",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0019",
+    "English": "assimilate",
+    "Chinese": "使同化",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0020",
+    "English": "attorney",
+    "Chinese": "代理人",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0021",
+    "English": "augment",
+    "Chinese": "增加",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0022",
+    "English": "authentic",
+    "Chinese": "真实的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0023",
+    "English": "avail",
+    "Chinese": "有益于",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0024",
+    "English": "avert",
+    "Chinese": "转开",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0025",
+    "English": "baffle",
+    "Chinese": "使挫折",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0026",
+    "English": "barren",
+    "Chinese": "贫瘠的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0027",
+    "English": "batch",
+    "Chinese": "分批",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0028",
+    "English": "bizarre",
+    "Chinese": "奇异的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0029",
+    "English": "bleak",
+    "Chinese": "萧瑟的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0030",
+    "English": "blunder",
+    "Chinese": "犯大错",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0031",
+    "English": "blunt",
+    "Chinese": "钝的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0032",
+    "English": "bonus",
+    "Chinese": "奖金",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0033",
+    "English": "brace",
+    "Chinese": "支柱",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0034",
+    "English": "brittle",
+    "Chinese": "脆的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0035",
+    "English": "capsule",
+    "Chinese": "胶囊",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0036",
+    "English": "casualty",
+    "Chinese": "伤亡",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0037",
+    "English": "ceramic",
+    "Chinese": "陶器的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0038",
+    "English": "cereal",
+    "Chinese": "谷类",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0039",
+    "English": "commentary",
+    "Chinese": "注释",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0040",
+    "English": "commitment",
+    "Chinese": "委托",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0041",
+    "English": "commute",
+    "Chinese": "交换",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0042",
+    "English": "compatible",
+    "Chinese": "一致的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0043",
+    "English": "competence",
+    "Chinese": "胜任",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0044",
+    "English": "compile",
+    "Chinese": "编辑",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0045",
+    "English": "compulsory",
+    "Chinese": "强迫的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0046",
+    "English": "concede",
+    "Chinese": "承认",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0047",
+    "English": "conceive",
+    "Chinese": "设想",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0048",
+    "English": "concession",
+    "Chinese": "让步",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0049",
+    "English": "concise",
+    "Chinese": "简洁的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0050",
+    "English": "confer",
+    "Chinese": "赠予",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0051",
+    "English": "configuration",
+    "Chinese": "结构",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0052",
+    "English": "conform",
+    "Chinese": "使遵守",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0053",
+    "English": "confusion",
+    "Chinese": "混乱",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0054",
+    "English": "consecutive",
+    "Chinese": "连续的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0055",
+    "English": "consensus",
+    "Chinese": "一致",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0056",
+    "English": "conserve",
+    "Chinese": "保存",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0057",
+    "English": "conspicuous",
+    "Chinese": "显著的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0058",
+    "English": "constituent",
+    "Chinese": "形成的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0059",
+    "English": "constrain",
+    "Chinese": "强迫",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0060",
+    "English": "consultant",
+    "Chinese": "顾问",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0061",
+    "English": "contaminate",
+    "Chinese": "弄脏",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0062",
+    "English": "contemplate",
+    "Chinese": "冥思苦想",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0063",
+    "English": "contempt",
+    "Chinese": "轻蔑",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0064",
+    "English": "contend",
+    "Chinese": "竞争",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0065",
+    "English": "contradict",
+    "Chinese": "反驳",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0066",
+    "English": "contrive",
+    "Chinese": "发明",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0067",
+    "English": "controversial",
+    "Chinese": "争论的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0068",
+    "English": "controversy",
+    "Chinese": "争论",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0069",
+    "English": "converge",
+    "Chinese": "聚合",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0070",
+    "English": "convict",
+    "Chinese": "囚犯",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0071",
+    "English": "cordial",
+    "Chinese": "真诚的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0072",
+    "English": "corps",
+    "Chinese": "军团",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0073",
+    "English": "corrode",
+    "Chinese": "腐蚀",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0074",
+    "English": "corrupt",
+    "Chinese": "贿赂",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0075",
+    "English": "costume",
+    "Chinese": "装束",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0076",
+    "English": "courtesy",
+    "Chinese": "礼貌",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0077",
+    "English": "cripple",
+    "Chinese": "跛子",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0078",
+    "English": "criterion",
+    "Chinese": "标准",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0079",
+    "English": "crucial",
+    "Chinese": "决定性的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0080",
+    "English": "cue",
+    "Chinese": "线索",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0081",
+    "English": "culminate",
+    "Chinese": "达到高潮",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0082",
+    "English": "cumulative",
+    "Chinese": "累积的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0083",
+    "English": "curb",
+    "Chinese": "抑制",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0084",
+    "English": "curt",
+    "Chinese": "简略的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0085",
+    "English": "cynical",
+    "Chinese": "愤世嫉俗的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0086",
+    "English": "deficit",
+    "Chinese": "赤字",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0087",
+    "English": "degenerate",
+    "Chinese": "堕落的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0088",
+    "English": "deliberate",
+    "Chinese": "深思熟虑的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0089",
+    "English": "denote",
+    "Chinese": "指示",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0090",
+    "English": "denounce",
+    "Chinese": "谴责",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0091",
+    "English": "depict",
+    "Chinese": "描述",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0092",
+    "English": "designate",
+    "Chinese": "指出",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0093",
+    "English": "despatch",
+    "Chinese": "派遣",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0094",
+    "English": "despise",
+    "Chinese": "鄙视",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0095",
+    "English": "deteriorate",
+    "Chinese": "使恶化",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0096",
+    "English": "diffuse",
+    "Chinese": "散播",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0097",
+    "English": "dilemma",
+    "Chinese": "困境",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0098",
+    "English": "dilute",
+    "Chinese": "冲淡",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0099",
+    "English": "discern",
+    "Chinese": "看出",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0100",
+    "English": "discrepancy",
+    "Chinese": "相差",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "Id": "0001",
+    "English": "accelerate",
+    "Chinese": "v.使加速",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0002",
+    "English": "account",
+    "Chinese": "n.账户",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0003",
+    "English": "accustom",
+    "Chinese": "v.使习惯",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0004",
+    "English": "adapt",
+    "Chinese": "v.适应",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0005",
+    "English": "affiliate",
+    "Chinese": "v.附属",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0006",
+    "English": "advocate",
+    "Chinese": "v.宣扬",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0007",
+    "English": "affluent",
+    "Chinese": "adj.富裕的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0008",
+    "English": "annoy",
+    "Chinese": "v.使恼怒",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0009",
+    "English": "ascribe",
+    "Chinese": "v.把…归咎于",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0010",
+    "English": "assess",
+    "Chinese": "v.评估",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0011",
+    "English": "assign",
+    "Chinese": "指派",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0012",
+    "English": "assume",
+    "Chinese": "假定",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0013",
+    "English": "attain",
+    "Chinese": "获得",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0014",
+    "English": "attribute",
+    "Chinese": "把…归因于",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0015",
+    "English": "attribute",
+    "Chinese": "归咎于",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0016",
+    "English": "automatically",
+    "Chinese": "自动地",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0017",
+    "English": "boost",
+    "Chinese": "提高",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0018",
+    "English": "brilliant",
+    "Chinese": "光辉的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0019",
+    "English": "collaborate",
+    "Chinese": "合作",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0020",
+    "English": "comprehensive",
+    "Chinese": "综合的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0021",
+    "English": "conscious",
+    "Chinese": "有意识的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0022",
+    "English": "conserve",
+    "Chinese": "保存",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0023",
+    "English": "considerate",
+    "Chinese": "考虑周到的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0024",
+    "English": "contribute",
+    "Chinese": "贡献",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0025",
+    "English": "convenient",
+    "Chinese": "方便的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0026",
+    "English": "convey",
+    "Chinese": "传达",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0027",
+    "English": "cooperate",
+    "Chinese": "合作",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0028",
+    "English": "coordinate",
+    "Chinese": "合作",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0029",
+    "English": "cultivate",
+    "Chinese": "培养",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0030",
+    "English": "derive",
+    "Chinese": "出自",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0031",
+    "English": "despair",
+    "Chinese": "绝望",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0032",
+    "English": "disapprove",
+    "Chinese": "不批准",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0033",
+    "English": "dismiss",
+    "Chinese": "撤销",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0034",
+    "English": "distinguish",
+    "Chinese": "辨别",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0035",
+    "English": "distribute",
+    "Chinese": "分配",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0036",
+    "English": "dominate",
+    "Chinese": "支配",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0037",
+    "English": "embarrass",
+    "Chinese": "使窘迫",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0038",
+    "English": "employ",
+    "Chinese": "雇佣",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0039",
+    "English": "engage",
+    "Chinese": "从事",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0040",
+    "English": "enhance",
+    "Chinese": "加强",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0041",
+    "English": "enroll",
+    "Chinese": "注册",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0042",
+    "English": "evacuate",
+    "Chinese": "撤走",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0043",
+    "English": "evaluate",
+    "Chinese": "评价",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0044",
+    "English": "evaluate",
+    "Chinese": "评价",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0045",
+    "English": "excessive",
+    "Chinese": "过度的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0046",
+    "English": "frustrate",
+    "Chinese": "使沮丧",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0047",
+    "English": "genetic",
+    "Chinese": "遗传的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0048",
+    "English": "guarantee",
+    "Chinese": "保证",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0049",
+    "English": "identify",
+    "Chinese": "鉴别",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0050",
+    "English": "immigrate",
+    "Chinese": "移民",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0051",
+    "English": "implement",
+    "Chinese": "实施",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0052",
+    "English": "incline",
+    "Chinese": "倾向",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0053",
+    "English": "inferior",
+    "Chinese": "下级的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0054",
+    "English": "injure",
+    "Chinese": "受伤",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0055",
+    "English": "inquire",
+    "Chinese": "询问",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0056",
+    "English": "instinct",
+    "Chinese": "本能",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0057",
+    "English": "integrate",
+    "Chinese": "使结合",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0058",
+    "English": "internship",
+    "Chinese": "实习",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0059",
+    "English": "inverse",
+    "Chinese": "倒转的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0060",
+    "English": "justify",
+    "Chinese": "证明…是正当的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0061",
+    "English": "launch",
+    "Chinese": "发射",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0062",
+    "English": "negative",
+    "Chinese": "消极的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0063",
+    "English": "notify",
+    "Chinese": "通知",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0064",
+    "English": "obligation",
+    "Chinese": "义务",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0065",
+    "English": "obstacle",
+    "Chinese": "障碍",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0066",
+    "English": "optimistic",
+    "Chinese": "乐观的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0067",
+    "English": "originate",
+    "Chinese": "由…产生",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0068",
+    "English": "overcome",
+    "Chinese": "战胜",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0069",
+    "English": "phenomenon",
+    "Chinese": "现象",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0070",
+    "English": "positive",
+    "Chinese": "积极的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0071",
+    "English": "potential",
+    "Chinese": "潜在的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0072",
+    "English": "preferable",
+    "Chinese": "更好的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0073",
+    "English": "prevail",
+    "Chinese": "压倒",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0074",
+    "English": "priority",
+    "Chinese": "优先",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0075",
+    "English": "proceed",
+    "Chinese": "进行",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0076",
+    "English": "prompt",
+    "Chinese": "刺激",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0077",
+    "English": "proportion",
+    "Chinese": "比例",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0078",
+    "English": "pursue",
+    "Chinese": "追求",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0079",
+    "English": "qualify",
+    "Chinese": "使胜任",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0080",
+    "English": "ecommend",
+    "Chinese": "推荐",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0081",
+    "English": "reference",
+    "Chinese": "参考",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0082",
+    "English": "remind",
+    "Chinese": "提醒某人注意",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0083",
+    "English": "relevant",
+    "Chinese": "有关的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0084",
+    "English": "restore",
+    "Chinese": "恢复",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0085",
+    "English": "restrain",
+    "Chinese": "遏制",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0086",
+    "English": "resume",
+    "Chinese": "简历",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0087",
+    "English": "reverse",
+    "Chinese": "颠倒",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0088",
+    "English": "sacrifice",
+    "Chinese": "牺牲",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0089",
+    "English": "starvation",
+    "Chinese": "饿死",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0090",
+    "English": "submit",
+    "Chinese": "提交",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0091",
+    "English": "subsidy",
+    "Chinese": "津贴",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0092",
+    "English": "superior",
+    "Chinese": "高级的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0093",
+    "English": "survive",
+    "Chinese": "幸免于",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0094",
+    "English": "transmit",
+    "Chinese": "传播",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0095",
+    "English": "tropical",
+    "Chinese": "热带的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0096",
+    "English": "undertake",
+    "Chinese": "承担",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0097",
+    "English": "vanish",
+    "Chinese": "消失",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0098",
+    "English": "victim",
+    "Chinese": "受害者",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0099",
+    "English": "visiable",
+    "Chinese": "可看见的",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  },
+  {
+    "Id": "0100",
+    "English": "vision",
+    "Chinese": "视力",
+    "WrongMarkCount": 2,
+    "RightMarkCount": 2
+  }
+]
