@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: enemy_skull_matter_Data
+  m_EditorClassIdentifier: 
+  dataName: enemy_skull_matter
+  dragonBonesJSON: {fileID: 4900000, guid: 4eacbef02ce9b5b49a4e1a9c7a74dadd, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: a4739c4974a1aba41978092db057509d, type: 3}
+    texture: {fileID: 2800000, guid: 35f94cf550db0b14e9fc400a235a1134, type: 3}
+    material: {fileID: 2100000, guid: c84814c4a8269ec488add91a41d88ac0, type: 2}
+    uiMaterial: {fileID: 0}

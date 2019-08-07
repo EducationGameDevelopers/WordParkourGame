@@ -7,7 +7,7 @@ public class Spawner : View
 {
     private Vector2 landOriginPos = new Vector2(0, 0);    //地面物体初始生成位置
     private Vector2 skyOriginPos = new Vector2(0, 3);    //天空物体初始生成位置
-    private Vector2 eventOriginPos = new Vector2(0, 0.5f);   //事件问题初始生成位置
+    private Vector2 eventOriginPos = new Vector2(0, 1f);   //事件问题初始生成位置
 
     public override string Name
     {
@@ -79,7 +79,7 @@ public class Spawner : View
     }
 
     /// <summary>
-    /// 生成飞行天空物体
+    /// 生成云朵
     /// </summary>
     private void SpawnCloudObjects()
     {
@@ -93,7 +93,7 @@ public class Spawner : View
     private void SpawnEnemyObjects()
     {
         Game.Instance.a_ObjectPool.ResourcesDir = "Prefabs/EnvObjects/Enemys";
-        Game.Instance.a_ObjectPool.Spawn("Enemy_" + Random.Range(1, 3).ToString(), eventOriginPos);
+        Game.Instance.a_ObjectPool.Spawn("Enemy_" + Random.Range(1, 4).ToString(), eventOriginPos);
     }
 
     /// <summary>

@@ -8,10 +8,13 @@ public class UIStartSystem : MonoBehaviour {
     private Toggle toggle_BgMusic;
     private Toggle toggle_AudioEffect;
 
+    private bool isInitSet = false;
+
     private void Awake()
     {
-        toggle_BgMusic = transform.Find("PanelGameSetting/BgMusic").GetComponent<Toggle>();
-        toggle_AudioEffect = transform.Find("PanelGameSetting/AudioEffect").GetComponent<Toggle>();
+        toggle_BgMusic = transform.Find("Bg/PanelGameSetting/BgMusic/Toggle").GetComponent<Toggle>();
+        toggle_AudioEffect = transform.Find("Bg/PanelGameSetting/AudioEffect/Toggle").GetComponent<Toggle>();
+
 
         toggle_BgMusic.isOn = PlayerPrefs.GetInt("BgMusic") == 1 ? true : false;
         toggle_AudioEffect.isOn = PlayerPrefs.GetInt("AudioEffect") == 1 ? true : false;

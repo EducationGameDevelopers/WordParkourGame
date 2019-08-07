@@ -62,6 +62,7 @@ public class UIBoard : View
             if (currentLabour <= 0)
             {
                 SendEvent(Consts.E_EndLevel);
+                yield return new WaitForSeconds(0);
             }
             UpdateLabourProcessShow(currentLabour);
         }        
