@@ -5,6 +5,7 @@ using Random = UnityEngine.Random;
 
 public class Spawner : View
 {
+    //各种背景物品生成的位置
     private Vector2 landOriginPos = new Vector2(0, 0);    //地面物体初始生成位置
     private Vector2 skyOriginPos = new Vector2(0, 3);    //天空物体初始生成位置
     private Vector2 eventOriginPos = new Vector2(0, 1f);   //事件问题初始生成位置
@@ -55,7 +56,9 @@ public class Spawner : View
     /// </summary>
     private void SpawnTreeObject()
     {
+        //生成对象的路径来源
         Game.Instance.a_ObjectPool.ResourcesDir = "Prefabs/EnvObjects/Trees";
+        //具体该生成该物品的种类和生成对象的位置
         Game.Instance.a_ObjectPool.Spawn("tree_" + Random.Range(1, 6).ToString(), landOriginPos);
     }
 

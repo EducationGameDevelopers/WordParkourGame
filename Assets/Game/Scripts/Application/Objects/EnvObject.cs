@@ -4,7 +4,7 @@ using DG.Tweening;
 
 public class EnvObject: ResuableObject
 {
-    private float moveLength = -14;      //物体移动的距离，单位 m
+    private float moveLength = -14;      //物体移动的距离，单位 m，负号表示方向
 
     public float moveSpeed = 2;      //物体移动的速度，单位 m/s
 

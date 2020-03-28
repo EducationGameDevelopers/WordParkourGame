@@ -5,6 +5,7 @@ public class Enemy : EnvObject
     private Sequence sequence;
     private void Awake()
     {
+        //移动速度与方向
         MoveLength = -7;
     }
 
