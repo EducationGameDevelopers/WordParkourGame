@@ -26,7 +26,7 @@ public class StaticData : Singleton<StaticData>
 
     private WordLexicon wordLexicon = WordLexicon.None;    //单词词库
 
-    private WordLexicon wordLexiconOption = WordLexicon.None;
+    private WordLexicon wordLexiconOption = WordLexicon.None;  //单词词库选项
 
     private PlayerStatus m_PlayerStatus = PlayerStatus.None;   //玩家地位
 

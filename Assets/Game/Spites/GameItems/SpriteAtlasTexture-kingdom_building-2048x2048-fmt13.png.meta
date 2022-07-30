@@ -1,7 +1,5 @@
 fileFormatVersion: 2
 guid: b0d5585f5a11ba443acf32eb593ddcd7
-timeCreated: 1561776150
-licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
     21300000: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_0
@@ -111,7 +109,7 @@ TextureImporter:
     21300208: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_104
     21300210: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_105
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -129,6 +127,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -139,7 +139,7 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: -1
@@ -159,11 +159,13 @@ TextureImporter:
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -173,7 +175,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Standalone
+  - serializedVersion: 2
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -183,7 +186,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: iPhone
+  - serializedVersion: 2
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -193,7 +197,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Android
+  - serializedVersion: 2
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -220,6 +225,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 19d544f0fd65127419fffddf4c5c3a0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_1
       rect:
@@ -234,6 +245,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: be0e75e358f8ed444ae8e1c5612797c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_2
       rect:
@@ -248,6 +265,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 746c2e038f4b47649acd11d4cb6e7475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_3
       rect:
@@ -262,6 +285,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a36b62b9b5a47ef4690004ed1e1c4b88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_4
       rect:
@@ -276,6 +305,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 950f1274f781f954b889f67187bcacb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_5
       rect:
@@ -290,6 +325,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: febc84dc9ba845743bc8f7dff5649fe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_6
       rect:
@@ -304,6 +345,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5be93885ac630e4bb292274ce3055d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_7
       rect:
@@ -318,6 +365,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: dffc2da080501cf48b855f7dc349f099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_8
       rect:
@@ -332,6 +385,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 1640b8fa5b034bf4cae115c3b9f83af9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_9
       rect:
@@ -346,6 +405,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 35af6bbb68bde5d428224255163e7c1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_10
       rect:
@@ -360,6 +425,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: d0158ed0510e4f341bbbcbcc7b34f7d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_11
       rect:
@@ -374,6 +445,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0207257011c2d0b489d52e651ce7ca97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_12
       rect:
@@ -388,6 +465,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0094a0e33765cb044bc516d2d3356cff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_13
       rect:
@@ -402,6 +485,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 3031d53b0da009845867006857ec91f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_14
       rect:
@@ -416,6 +505,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: d45a5eb39fe25de478bf9d8217ce6e16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_15
       rect:
@@ -430,6 +525,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: dae29c33a73e72741b611a3137dbefcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_16
       rect:
@@ -444,6 +545,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 89aff541f3dc41548883f4954adc7f2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_17
       rect:
@@ -458,6 +565,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 488da1ae82eaee442b58db181b7c8d1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_18
       rect:
@@ -472,6 +585,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: d94b83829fc617a48a5bb3b040061771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_19
       rect:
@@ -486,6 +605,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: f296c851ac7090f41a14e7097c8de8c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_20
       rect:
@@ -500,6 +625,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 94253112707b9ad46b78bf0098bc9b4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_21
       rect:
@@ -514,6 +645,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 095fd781230de3b49822ada60dad9728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_22
       rect:
@@ -528,6 +665,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a877641ec7ead9c4b9af295192d24587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_23
       rect:
@@ -542,6 +685,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: fb2f04d685450a043992e584e28bb263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_24
       rect:
@@ -556,6 +705,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: d695a111464fbfd42bf563c947ea22ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_25
       rect:
@@ -570,6 +725,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c83c7e9329008eb46b01993a6797ce12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_26
       rect:
@@ -584,6 +745,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 1d7331ec60e1e7b46977dcfc522b0f94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_27
       rect:
@@ -598,6 +765,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ba9193b7ffc817c4eb0223f5bde3d484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_28
       rect:
@@ -612,6 +785,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c1c703664f2bd7f439d5cfc47eab8cca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_29
       rect:
@@ -626,6 +805,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8e9f76aad79776c468ca692eec6e743a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_30
       rect:
@@ -640,6 +825,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ca5899e6cf60a7c439031e112bc4c73c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_31
       rect:
@@ -654,6 +845,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8e7a489704518804e8c880d2328dcdb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_32
       rect:
@@ -668,6 +865,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c9a9d90621ec5394f84dc69840a69525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_33
       rect:
@@ -682,6 +885,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a9a7c104fe24df9458343662c5872ad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_34
       rect:
@@ -696,6 +905,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 046e0bc0fb3789d4bba10667b25c80ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_35
       rect:
@@ -710,6 +925,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 90bdaf23801e205429d22fbde7ae7774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_36
       rect:
@@ -724,6 +945,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 53f67f7d2b4c9cd47a16aff095e52d7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_37
       rect:
@@ -738,6 +965,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 16c7aab9d5231724b9f9d0c29824b591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_38
       rect:
@@ -752,6 +985,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 40a53d78cbd1ddf4ba676edd84c3f436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_39
       rect:
@@ -766,6 +1005,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 9a64658255535ce45a51008b28932fa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_40
       rect:
@@ -780,6 +1025,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 9181dfaa6e3c1444dac3fae1541f01cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_41
       rect:
@@ -794,6 +1045,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82abfcedba6e2ac42b13430b92273d7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_42
       rect:
@@ -808,6 +1065,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 885e9875cf2af9042ac110b3df88ff71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_43
       rect:
@@ -822,6 +1085,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: f102ecf63828bf1409cc07dd19c5f8df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_44
       rect:
@@ -836,6 +1105,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: b8b5bae22bd046046a892fd1204d0dea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_45
       rect:
@@ -850,6 +1125,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 5bac6707a286e0644964c89d47f30f20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_46
       rect:
@@ -864,6 +1145,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 17016c12593286949a514b6ca1196ce5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_47
       rect:
@@ -878,6 +1165,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: bcf581829f18d6242b09ff5fa0cf155f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_48
       rect:
@@ -892,6 +1185,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 01b9ee47dae39dc49a791bf10c1e1bb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_49
       rect:
@@ -906,6 +1205,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8643dfbf78a16724c9ec6adde22dca75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_50
       rect:
@@ -920,6 +1225,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 9dc27774d0e5c1b4f8651251ce6017bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_51
       rect:
@@ -934,6 +1245,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: d78f9510a6a0ca246807ebabe4172ff8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_52
       rect:
@@ -948,6 +1265,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0a7c8cbe24ee79b408162afe2baf906d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_53
       rect:
@@ -962,6 +1285,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 777e0ca8c4032494e87804713d348f10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_54
       rect:
@@ -976,6 +1305,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 5f679dae0a83f8e4583c726fd2d5722b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_55
       rect:
@@ -990,6 +1325,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 3e043a921eebb47468b788869308df24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_56
       rect:
@@ -1004,6 +1345,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 763656593c93d9147acae18028be90f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_57
       rect:
@@ -1018,6 +1365,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65b61af235904e342bf951057edc821d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_58
       rect:
@@ -1032,6 +1385,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cf6c7d6f7a3e3c748820dfa15271f144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_59
       rect:
@@ -1046,6 +1405,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: fbc58d8e5e8fbb94e84f42af0d164ed2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_60
       rect:
@@ -1060,6 +1425,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c8550f8fe234f4d45801364ef376a66c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_61
       rect:
@@ -1074,6 +1445,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6cddb8ee24bcd624f80e3c6e187cc3ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_62
       rect:
@@ -1088,6 +1465,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 7d487ae92a5a0d0479f6debac5f19776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_63
       rect:
@@ -1102,6 +1485,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: f83f7633b689e4345a9dd2903924c2f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_64
       rect:
@@ -1116,6 +1505,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: bdca16c67023ca14db30c3be5c293293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_65
       rect:
@@ -1130,6 +1525,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 52a6a0b1351ec7345b04646167ca6d59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_66
       rect:
@@ -1144,6 +1545,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 95bb31fbde7a7304ba0df45508f4fa39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_67
       rect:
@@ -1158,6 +1565,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 946c3cd898c0262428f2fbf353067c77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_68
       rect:
@@ -1172,6 +1585,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a1fad747ae533234a926dfd10c394ccb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_69
       rect:
@@ -1186,6 +1605,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 523a6859563bc8546820d197e488449a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_70
       rect:
@@ -1200,6 +1625,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6abb14ff66c41d44cb5dfedc0e0df50d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_71
       rect:
@@ -1214,6 +1645,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24fc9fc7c94256f42ac0e2210fff3b2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_72
       rect:
@@ -1228,6 +1665,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 95dddd4eda8728941bb76931d9586f78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_73
       rect:
@@ -1242,6 +1685,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: edec916c8b360e14eae85ece6e68ed41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_74
       rect:
@@ -1256,6 +1705,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0e38cb6ea6e2f19428d6a8ddf365679e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_75
       rect:
@@ -1270,6 +1725,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 3db4024525d94a445aae5f0b2da088b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_76
       rect:
@@ -1284,6 +1745,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: d21ca8b2968dd11499dc12bea3ff7de1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_77
       rect:
@@ -1298,6 +1765,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c63d5c2a364719349bf2ffe1563b7ced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_78
       rect:
@@ -1312,6 +1785,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 94c0c2db1a6a2e44f90e5f11f9a1bdb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_79
       rect:
@@ -1326,6 +1805,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2eb4dbe57c0418e4f964609919fdfd97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_80
       rect:
@@ -1340,6 +1825,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5ffcd8f94ddff244b2347466d713680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_81
       rect:
@@ -1354,6 +1845,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24af417f30d403f438c2a94b890caba3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_82
       rect:
@@ -1368,6 +1865,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 1eecb7d1a49f59a4eb8ca3818a16945d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_83
       rect:
@@ -1382,6 +1885,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 12b457cdf776b584b98e80c32aa0a7e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_84
       rect:
@@ -1396,6 +1905,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 70c4be8df3a10374e9f259f6f6b99c71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_85
       rect:
@@ -1410,6 +1925,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 5bb43ecef671275428e28be88ca0d635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_86
       rect:
@@ -1424,6 +1945,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 12631639dcab84a4e8eee17185a0bea8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_87
       rect:
@@ -1438,6 +1965,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 135bc0a7a2698f043a36bf82b475a807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_88
       rect:
@@ -1452,6 +1985,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: fda612459ba35a54e845f4935230b450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_89
       rect:
@@ -1466,6 +2005,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c42ea44ad43bf3141b1bd84be635df59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_90
       rect:
@@ -1480,6 +2025,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 5ed972ef5d817984eb6eef1164c1a062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_91
       rect:
@@ -1494,6 +2045,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 3ca66d6cbc9137d4bae5944d21be7093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_92
       rect:
@@ -1508,6 +2065,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: b4a7f483054002d498e66f2d24706b14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_93
       rect:
@@ -1522,6 +2085,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2e307e3330b8cd541ad587df2fe0f17a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_94
       rect:
@@ -1536,6 +2105,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 01f253665cc89b64ea430a0b4f093961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_95
       rect:
@@ -1550,6 +2125,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 3c374bd9ac5338247b8b123f1117768f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_96
       rect:
@@ -1564,6 +2145,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: efaa391743b2c3c4ab79412c4c70f0f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_97
       rect:
@@ -1578,6 +2165,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6527aedabdde0dd40857b9567639bed1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_98
       rect:
@@ -1592,6 +2185,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a21d566dd78a2cb4d97654b63ce4fe92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_99
       rect:
@@ -1606,6 +2205,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 5a4e7127e42ccc840acc9b31635ef756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_100
       rect:
@@ -1620,6 +2225,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 53c49726b43f0c14fbd75ba723b30864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_101
       rect:
@@ -1634,6 +2245,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 784d4c2a32a354445a6ee85916d3bb69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_102
       rect:
@@ -1648,6 +2265,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6fa7c1baa5581134ba11abd12a99b808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_103
       rect:
@@ -1662,6 +2285,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03ed3065eb8ae1f418436ce17c90201c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_104
       rect:
@@ -1676,6 +2305,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6d525a7e5a8dbc6438735dc7f716a83c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: SpriteAtlasTexture-kingdom_building-2048x2048-fmt13_105
       rect:
@@ -1690,9 +2325,23 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 5f496788391db7c43a285939d71ffa57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

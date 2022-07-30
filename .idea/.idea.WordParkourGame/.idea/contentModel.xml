@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\14188\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\14188\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_WordParkourGame.-1927334672.00" t="ExcludeRecursive" />
+    <e p="D:\CodeProjects\UnityProjects\WordParkourGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DragonBones" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AssetProcess.cs" t="Include" />
+            <e p="DragonBonesIcons.cs" t="Include" />
+            <e p="PickJsonDataWindow.cs" t="Include" />
+            <e p="ShowSlotsWindow.cs" t="Include" />
+            <e p="UnityArmatureEditor.cs" t="Include" />
+            <e p="UnityEditor.cs" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="DB_BlendMode_Grab.shader" t="Include" />
+              <e p="DB_BlendMode_UIGrab.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="3rdParty" t="Include">
+              <e p="MiniJSON.cs" t="Include" />
+            </e>
+            <e p="animation" t="Include">
+              <e p="Animation.cs" t="Include" />
+              <e p="AnimationState.cs" t="Include" />
+              <e p="BaseTimelineState.cs" t="Include" />
+              <e p="IAnimatable.cs" t="Include" />
+              <e p="TimelineState.cs" t="Include" />
+              <e p="WorldClock.cs" t="Include" />
+            </e>
+            <e p="armature" t="Include">
+              <e p="Armature.cs" t="Include" />
+              <e p="Bone.cs" t="Include" />
+              <e p="Constraint.cs" t="Include" />
+              <e p="DeformVertices.cs" t="Include" />
+              <e p="IArmatureProxy.cs" t="Include" />
+              <e p="Slot.cs" t="Include" />
+              <e p="TransformObject.cs" t="Include" />
+            </e>
+            <e p="core" t="Include">
+              <e p="BaseObject.cs" t="Include" />
+              <e p="DragonBones.cs" t="Include" />
+            </e>
+            <e p="event" t="Include">
+              <e p="EventObject.cs" t="Include" />
+              <e p="IEventDispatcher.cs" t="Include" />
+            </e>
+            <e p="factory" t="Include">
+              <e p="BaseFactory.cs" t="Include" />
+            </e>
+            <e p="geom" t="Include">
+              <e p="ColorTransform.cs" t="Include" />
+              <e p="Matrix.cs" t="Include" />
+              <e p="Point.cs" t="Include" />
+              <e p="Rectangle.cs" t="Include" />
+              <e p="Transform.cs" t="Include" />
+            </e>
+            <e p="model" t="Include">
+              <e p="AnimationConfig.cs" t="Include" />
+              <e p="AnimationData.cs" t="Include" />
+              <e p="ArmatureData.cs" t="Include" />
+              <e p="BoundingBoxData.cs" t="Include" />
+              <e p="CanvasData.cs" t="Include" />
+              <e p="ConstraintData.cs" t="Include" />
+              <e p="DisplayData.cs" t="Include" />
+              <e p="DragonBonesData.cs" t="Include" />
+              <e p="SkinData.cs" t="Include" />
+              <e p="TextureAtlasData.cs" t="Include" />
+              <e p="UserData.cs" t="Include" />
+            </e>
+            <e p="parser" t="Include">
+              <e p="BinaryDataParser.cs" t="Include" />
+              <e p="BinaryDataReader.cs" t="Include" />
+              <e p="BinaryDataWriter.cs" t="Include" />
+              <e p="DataParser.cs" t="Include" />
+              <e p="ObjectDataParser.cs" t="Include" />
+            </e>
+            <e p="unity" t="Include">
+              <e p="MeshBuffer.cs" t="Include" />
+              <e p="UnityArmatureComponent.cs" t="Include" />
+              <e p="UnityCombineMeshs.cs" t="Include" />
+              <e p="UnityDragonBonesData.cs" t="Include" />
+              <e p="UnityEventDispatcher.cs" t="Include" />
+              <e p="UnityFactory.cs" t="Include" />
+              <e p="UnitySlot.cs" t="Include" />
+              <e p="UnityTextureAtlasData.cs" t="Include" />
+              <e p="UnityUGUIDisplay.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Game" t="Include">
+          <e p="Resources" t="Include">
+            <e p="Words" t="Include">
+              <e p="CET4.json.txt" t="Include" />
+              <e p="CET6.json.txt" t="Include" />
+              <e p="Postgraduate.json.txt" t="Include" />
+              <e p="word_primary.json.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Application" t="Include">
+              <e p="1.Model" t="Include">
+                <e p="GameModel.cs" t="Include" />
+                <e p="UserAnswerModel.cs" t="Include" />
+              </e>
+              <e p="2.View" t="Include">
+                <e p="Spawner.cs" t="Include" />
+                <e p="UIs" t="Include">
+                  <e p="UIAnswer.cs" t="Include" />
+                  <e p="UIBoard.cs" t="Include" />
+                  <e p="UIComplete.cs" t="Include" />
+                  <e p="UICountDown.cs" t="Include" />
+                  <e p="UILost.cs" t="Include" />
+                  <e p="UISelectLexcion.cs" t="Include" />
+                  <e p="UIStart.cs" t="Include" />
+                  <e p="UIStartSystem.cs" t="Include" />
+                  <e p="UISystem.cs" t="Include" />
+                  <e p="UIWin.cs" t="Include" />
+                </e>
+              </e>
+              <e p="3.Controller" t="Include">
+                <e p="EndLevelCommand.cs" t="Include" />
+                <e p="EnterSceneCommand.cs" t="Include" />
+                <e p="ExitSceneCommand.cs" t="Include" />
+                <e p="StartLevelCommand.cs" t="Include" />
+                <e p="StartUpCommand.cs" t="Include" />
+              </e>
+              <e p="Args" t="Include">
+                <e p="AnswerMarkArgs.cs" t="Include" />
+                <e p="EndLevelArgs.cs" t="Include" />
+                <e p="ItemPositionArgs.cs" t="Include" />
+                <e p="RoundInfoArgs.cs" t="Include" />
+                <e p="SceneArgs.cs" t="Include" />
+                <e p="StartLevelArgs.cs" t="Include" />
+                <e p="StatusAndRankInfoArgs.cs" t="Include" />
+              </e>
+              <e p="Data" t="Include">
+                <e p="Level.cs" t="Include" />
+                <e p="Word.cs" t="Include" />
+              </e>
+              <e p="Game.cs" t="Include" />
+              <e p="Misc" t="Include">
+                <e p="Consts.cs" t="Include" />
+                <e p="CoronaDT.cs" t="Include" />
+                <e p="GoldDT.cs" t="Include" />
+                <e p="MathTools.cs" t="Include" />
+                <e p="Saver.cs" t="Include" />
+                <e p="SceneLoadProcess.cs" t="Include" />
+                <e p="Tools.cs" t="Include" />
+              </e>
+              <e p="Objects" t="Include">
+                <e p="Enemy.cs" t="Include" />
+                <e p="EnvObject.cs" t="Include" />
+                <e p="Gold.cs" t="Include" />
+                <e p="Player.cs" t="Include" />
+              </e>
+              <e p="StaticData" t="Include">
+                <e p="GameData.cs" t="Include" />
+                <e p="StaticData.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Framework" t="Include">
+              <e p="MVC" t="Include">
+                <e p="ApplicationBase.cs" t="Include" />
+                <e p="Controller.cs" t="Include" />
+                <e p="Model.cs" t="Include" />
+                <e p="MVC.cs" t="Include" />
+                <e p="View.cs" t="Include" />
+              </e>
+              <e p="Pool" t="Include">
+                <e p="IReusable.cs" t="Include" />
+                <e p="ObjectPool.cs" t="Include" />
+                <e p="ReusableObject.cs" t="Include" />
+                <e p="SubPool.cs" t="Include" />
+              </e>
+              <e p="Singleton.cs" t="Include" />
+              <e p="Sound" t="Include">
+                <e p="Sound.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="JSON" t="Include">
+            <e p="Editor" t="Include">
+              <e p="JSONChecker.cs" t="Include" />
+            </e>
+            <e p="JSONObject.cs" t="Include" />
+            <e p="JSONTemplates.cs" t="Include" />
+            <e p="VectorTemplates.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="WordParkourGame.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
